@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aboutme</string>
+    <string name="Name">Mayeoh Fay Barangot</string>
+    <string name="yellow_star">Yellow Star\n</string>
+
+    <string name="bio"> Hi, my name is Mayeoh.
+    \n\nI am currently taking the Information Technology course at Xavier Ateneo de Cagayan.</string>
+    <string name="what_nickname">what is your Nickname?\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done_button">Done</string>
+</resources>
